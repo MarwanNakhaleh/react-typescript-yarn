@@ -2,7 +2,7 @@
   "name": "module-federation",
   "packageManager": "yarn@3.3.0",
   "scripts": {
-    "start": "webpack serve --mode=development"
+    "start": "webpack serve --mode=development --port 4000"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",

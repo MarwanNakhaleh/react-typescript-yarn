@@ -1,7 +1,9 @@
 import React from "react";
 
-export const App = () => {
+const App = () => {
     return (
-        <h1>Hello</h1>
+        <h1>Hello from the micro frontend!</h1>
     );
 }
+
+export default App;
